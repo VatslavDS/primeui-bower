@@ -1,0 +1,16 @@
+{
+  "name": "PrimeUI",
+  "version": "1.0",
+  "description": "PrimeUI widgets",
+  "main": "./development/primeui-1.0.js",
+  "keywords": [
+    "PrimeUI",
+    "Widgets",
+    "PrimeTek"
+  ],
+  "authors": [
+    "Cagatay Civici"
+  ],
+  "license": "Apache v2 License",
+  "homepage": "http://www.primefaces.org/primeui/"
+}
